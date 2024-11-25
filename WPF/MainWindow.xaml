@@ -1,0 +1,74 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="Полюс | Авторизация" 
+        Height="800" Width="850"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="800"
+        MinWidth="850">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="151*"/>
+            <ColumnDefinition Width="20*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="800*"/>
+            <RowDefinition Height="120*"/>
+        </Grid.RowDefinitions>
+
+        <Grid
+            Grid.Row="1"
+            Grid.Column="1">
+            <Border
+                Style="{StaticResource MainWindow_Middle}">
+                <Border
+                    Style="{StaticResource MainWindow_Max}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="85*"/>
+                            <RowDefinition Height="382*"/>
+                            <RowDefinition Height="85*"/>
+                        </Grid.RowDefinitions>
+
+                        <StackPanel
+                            Grid.Row="0"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                            <TextBlock
+                                Style="{StaticResource MainWindow_TextType}"
+                                Text="Добро пожаловать!">
+                            </TextBlock>
+                        </StackPanel>
+
+                        <StackPanel
+                            Grid.Row="1">
+                            <Border
+                                Height="362"
+                                BorderBrush="Orange"
+                                BorderThickness="0 2 0 2">
+                                <StackPanel>
+                                    <TextBlock
+                                        Style="{StaticResource MainWindow_TextTitle}"
+                                        Text="Авторизация">
+                                        
+                                    </TextBlock>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+
+                        <StackPanel
+                            Grid.Row="2">
+                            
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

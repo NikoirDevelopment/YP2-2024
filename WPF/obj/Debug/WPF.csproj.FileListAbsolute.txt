@@ -1,0 +1,15 @@
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\bin\Debug\WPF.exe.config
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\bin\Debug\WPF.exe
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\bin\Debug\WPF.pdb
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\App.g.cs
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\MainWindow.baml
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.g.resources
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.exe
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.pdb
