@@ -13,3 +13,6 @@ C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.csproj.Ge
 C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
 C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.exe
 C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\WPF.pdb
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\Load.g.cs
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\App.baml
+C:\Users\hlebu\YandexDisk\NikoirDevelopment\YP2-2024\WPF\obj\Debug\Load.baml
